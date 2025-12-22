@@ -30,7 +30,6 @@
 - 🔭 Improving **Android architecture** (MVVM, Clean Architecture, Compose)
 - 🌱 Deep diving into **Docker → Jenkins → AWS**
 - 🧪 Writing cleaner, testable, production-ready code
-- 🎯 Preparing for **mid-to-senior Android roles**
 
 ---
 
