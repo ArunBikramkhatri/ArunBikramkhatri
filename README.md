@@ -1,36 +1,101 @@
+<h1 align="center">👋 Hi, I'm Arun Bikram Khatri</h1>
+<h3 align="center">Android Developer • Software Engineer • Lifelong Learner</h3>
 
-<!--
-**ArunBikramkhatri/ArunBikramkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Arun Bikram Khatri</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbikramkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="arunbikramkhatri" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arun-khatri-265972239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-khatri-265972239" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arun-khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun-khatri" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    Building scalable mobile apps, exploring backend systems, and slowly mastering the cloud.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arunbikramkhatri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunbikramkhatri&show_icons=true&locale=en&layout=compact" alt="arunbikramkhatri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunbikramkhatri&show_icons=true&locale=en" alt="arunbikramkhatri" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunbikramkhatri&" alt="arunbikramkhatri" /></p>
+- 📱 **Android Developer** with 1+ year of professional experience  
+- 🎮 Worked on **mobile games with 100M+ downloads**
+- 🧩 Built **custom Android extensions** for Godot & Defold
+- 🛠 Strong in **Kotlin, Java, Android SDK, Firebase**
+- ⚙️ Exploring **Backend (Spring Boot)** & **DevOps (Docker, Jenkins)**
+- ☁️ Learning **AWS & Cloud Architecture** step by step
+- 🇳🇵 Based in **Nepal**
 
+---
+
+## 🧠 Current Focus
+
+- 🔭 Improving **Android architecture** (MVVM, Clean Architecture, Compose)
+- 🌱 Deep diving into **Docker → Jenkins → AWS**
+- 🧪 Writing cleaner, testable, production-ready code
+- 🎯 Preparing for **mid-to-senior Android roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45"/>
+</p>
+
+### ⚙️ Backend & DevOps
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+</p>
+
+---
+
+## 📌 Notable Work & Experience
+
+- ✅ Integrated **AdMob & Unity Ads**, improving monetization
+- 🚀 Reduced **ANR rates** through performance optimization
+- 🔌 Built **native Android extensions** for game engines
+- 🤝 Collaborated with designers, backend teams, and SDK partners
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunbikramkhatri&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbikramkhatri&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunbikramkhatri" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/arun-khatri-265972239" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+  </a>
+  <a href="https://stackoverflow.com/users/arun-khatri" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>
+    “Consistency compounds. Code follows.”
+  </em>
+</p>
