@@ -1,117 +1,113 @@
-<h1 align="center">👋 Hi, I'm Arun Bikram Khatri</h1>
-<h3 align="center">Android Developer • Software Engineer • Lifelong Learner</h3>
+<!--
+  GitHub PROFILE README
+  =====================
+  1. Create a new public repo named exactly: ArunBikramkhatri
+     (must match your username)
+  2. Add this file as README.md in that repo’s root
+  3. Commit — it appears at the top of your GitHub profile
+
+  Tip: after you host the portfolio on GitHub Pages, replace
+  PORTFOLIO_URL below with your live link.
+-->
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│  arun@mobile  ~  whoami                     │
+│                                             │
+│  Arun Bikram Khatri                         │
+│  Mobile Engineer · Android · iOS · Godot    │
+│  Shipping apps people actually keep.        │
+└─────────────────────────────────────────────┘
+```
+
+### Native mobile engineer — Kotlin, Swift, and products that ship
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-khatri-265972239/)
+[![Email](https://img.shields.io/badge/Email-087a55?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatribikramarun@gmail.com)
+[![Play Store](https://img.shields.io/badge/LockIn-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nura.lockin)
+[![GitHub](https://img.shields.io/badge/GitHub-ArunBikramkhatri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunBikramkhatri)
+
+<!-- Replace PORTFOLIO_URL after GitHub Pages is live -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0d9f6e?style=for-the-badge)](PORTFOLIO_URL) -->
+
+</div>
+
+---
+
+### About
+
+I build **native** Android and iOS apps — not demos that die in a repo.  
+Focus products, clean architecture, and the boring reliability that makes releases calm.
+
+Currently at **Teslatech** as a Mobile Engineer. On the side: Godot plugins, and a quiet obsession with quantum computing.
+
+```kotlin
+val arun = MobileEngineer(
+  platforms = listOf(Android, iOS),
+  shipped = listOf("LockIn"),
+  stack = listOf("Kotlin", "Compose", "Swift", "SwiftUI", "Firebase"),
+  status = OpenToCollab
+)
+```
+
+---
+
+### Featured work
+
+| Project | What it is | Link |
+|:--------|:-----------|:-----|
+| **LockIn** | Focus app — a smart barrier before distracting apps. Intentional usage, not instant dopamine. | [Google Play](https://play.google.com/store/apps/details?id=com.nura.lockin) |
+| **Employee Management** | Mobile app for people, records, and day-to-day operations | In progress |
+| **Godot Plugins** | Tooling that speeds up Godot workflows | Open source |
+
+---
+
+### Stack
+
+```text
+Android     Kotlin · Jetpack Compose · Room · Coroutines
+iOS         Swift · SwiftUI
+Backend     Firebase · REST · GraphQL
+Tools       Godot · CI/CD · Git
+Exploring   Quantum computing
+```
 
 <p align="center">
-  <em>
-    Building scalable mobile apps, exploring backend systems, and slowly mastering the cloud.
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunbikramkhatri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase,github,figma" alt="Skills" />
 </p>
 
 ---
 
-## 🚀 About Me
+### How I work
 
-- 📱 **Android Developer** with 1+ year of professional experience  
-- 🎮 Worked on **mobile games with 100M+ downloads**
-- 🧩 Built **custom Android extensions** for Godot & Defold
-- 🛠 Strong in **Kotlin, Java, Android SDK, Firebase**
-- ⚙️ Exploring **Backend (Spring Boot)** & **DevOps (Docker, Jenkins)**
-- ☁️ Learning **AWS & Cloud Architecture** step by step
-- 🇳🇵 Based in **Nepal**
+- **Native first** — platform APIs when they matter; no unnecessary wrappers
+- **Ship > polish forever** — real users beat perfect mocks
+- **Readable architecture** — UI → domain → data, without ceremony for its own sake
+- **Own the release** — CI, store listings, and what breaks at 2am
 
 ---
 
-## 🧠 Current Focus
+### Connect
 
-- 🔭 Improving **Android architecture** (MVVM, Clean Architecture, Compose)
-- 🌱 Deep diving into **Docker → Jenkins → AWS**
-- 🧪 Writing cleaner, testable, production-ready code
+Want a mobile engineer who treats the home screen as the product?
 
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45"/>
-</p>
-
-### ⚙️ Backend & DevOps
-<p>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</p>
+- Email → [khatribikramarun@gmail.com](mailto:khatribikramarun@gmail.com)
+- LinkedIn → [arun-khatri](https://www.linkedin.com/in/arun-khatri-265972239/)
+- GitHub → you’re already here
 
 ---
 
-## 📌 Notable Work & Experience
+<div align="center">
 
-- ✅ Integrated **AdMob & Unity Ads**, improving monetization
-- 🚀 Reduced **ANR rates** through performance optimization
-- 🔌 Built **native Android extensions** for game engines
-- 🤝 Collaborated with designers, backend teams, and SDK partners
+```text
+> status
+open_to_collab: true
+location: Nepal
+building: apps worth installing
+```
 
----
+**Thanks for reading — now go tap something I shipped.**
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunbikramkhatri/arunbikramkhatri/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunbikramkhatri/arunbikramkhatri/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/arunbikramkhatri/arunbikramkhatri/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunbikramkhatri&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbikramkhatri&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunbikramkhatri" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/arun-khatri-265972239" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://stackoverflow.com/users/arun-khatri" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>
-    “Consistency compounds. Code follows.”
-  </em>
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
+</div>
